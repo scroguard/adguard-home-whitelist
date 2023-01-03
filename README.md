@@ -9,4 +9,4 @@ mostly apple domains, with any extra domains necessary for apple services.
 
 ## Usage
 
-See [USAGE.md](/USAGE.md) for more information.
+See [USAGE.md](https://github.com/scroguard/adguard-home-whitelist/blob/main/USAGE.md) for more information.
