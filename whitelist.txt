@@ -1,0 +1,4 @@
+# unblock apple service related domains
+@@||apple.com^$important
+@@||icloud.com^$important
+@@ax.phobos.apple.com.edgesuite.net^
